@@ -1,0 +1,45 @@
+body
+{
+    background-image:url('bg.jpg');
+    background-position: center;
+    background-size: cover;
+    font-family: sans-serif;
+}
+ .signup-box{
+     width: 310px;
+     height: 410px;
+     margin-top: 10%;
+     margin-left:39%;
+     background-color: whitesmoke;
+     border-radius: 5px;
+}
+h1{
+    text-align: center;
+    padding-top: 21px;
+}
+form{
+    width:300px;
+    height: 30px;
+
+    margin-left: 60px;
+}
+form input{
+    width: 150px;
+    padding: 4px;
+} 
+.sign-up{
+    width: 140px;
+    height: 35px;
+    margin-left: 7%;
+    border-radius: 15px;
+    
+}
+.input-box{
+    border-radius: 15px;
+    padding: 6px;
+    margin: 8px;
+}
+hr{
+    width:65%;
+    margin-right: 60%;
+}

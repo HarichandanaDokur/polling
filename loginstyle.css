@@ -1,0 +1,46 @@
+body{
+    background-image: url(bg.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.login-box{
+    width: 310px;
+    height: 340px;
+    margin-top: 14%;
+    margin-left: 39%;
+    background-color: whitesmoke;
+    border-radius: 5px;
+}
+h1{
+    text-align: center;
+    padding-top: 29px;
+}
+form{
+    width: 300px;
+    height:25px ;
+    margin-left: 49px;
+}
+form input{
+    width: 180px;
+    padding: 4px;
+}
+.input-box{
+    border-radius: 15px;
+    padding: 6px;
+    margin: 8px;
+}
+.login{
+    width: 140px;
+    height: 35px;
+    margin-left: 10%;
+    border-radius: 15px;
+    
+}
+hr{
+    width:65%;
+    margin-right: 60%;
+}
+p{
+    margin-left: 13%;
+}
+

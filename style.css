@@ -1,0 +1,20 @@
+body{
+    background-image:url('bg.jpg');
+    background-position: center;
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    font-size: 65px;
+}
+
+#heading{
+    text-align: left;
+}
+img{
+    margin-left: 585px;
+}
+p{
+    margin-left: 780px;
+}
+    
